@@ -1,0 +1,6 @@
+{
+  "/audio-generation/page": "app/audio-generation/page.js",
+  "/content-outline/page": "app/content-outline/page.js",
+  "/podcast-generation/page": "app/podcast-generation/page.js",
+  "/content-acquisition/page": "app/content-acquisition/page.js"
+}
